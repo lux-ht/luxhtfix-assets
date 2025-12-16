@@ -1,0 +1,47 @@
+CRITICAL — CHARACTER LOCK (MUST FOLLOW EXACTLY):
+Use ONLY the uploaded official LUXHT Fix characters exactly as provided.
+Do NOT create new characters.
+Do NOT modify faces, hair, clothing, body proportions, or illustration style.
+Characters must appear IDENTICAL to the official figures.
+Male character must have brown eyes.
+
+FORMAT:
+Create an Instagram FEED post in STRICT portrait format 1080×1350 (4:5).
+Do NOT create a Story.
+Do NOT create square or horizontal images.
+
+SCENE (ENVIRONMENT — ALWAYS APPLY):
+Interior of a private home (not an apartment).
+Realistic, modern, neutral residential environment.
+The setting must logically match the issue or context.
+
+TASK:
+You will receive a CONTEXT BLOCK appended at the end of this prompt.
+Use ONLY the information in that block to determine:
+– what the scene shows
+– what the issue or message is
+– whether characters are present
+– whether text appears on the image
+– overall mood, style, and composition
+
+RULES:
+– Do NOT assume specific actions, issues, tools, or scenarios
+– Do NOT invent elements not supported by the context
+– Do NOT exaggerate or dramatize
+– Prioritize realism and clarity
+– Omit characters entirely if the context does not justify them
+– Omit on-image text unless the context implies it
+– Do NOT include logos unless explicitly instructed in the context
+
+QUALITY & STYLE:
+– Photorealistic
+– Clean
+– Premium
+– Believable
+– Non-staged
+
+FINAL CHECK:
+The image must feel like a real moment inside a real home and must visually reinforce the marketing intent described in the context block below.
+
+––––– CONTEXT BLOCK (AUTHORITATIVE INPUT) –––––
+
