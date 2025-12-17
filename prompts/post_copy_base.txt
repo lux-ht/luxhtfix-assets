@@ -29,11 +29,5 @@ TONE:
 – Confident
 – Calm
 
-OUTPUT FORMAT (STRICT JSON):
-{
-  "caption": "...",
-  "cta": "...",
-  "hashtags": ["...", "..."]
-}
-
 ––––– CONTEXT BLOCK (AUTHORITATIVE INPUT) –––––
+
