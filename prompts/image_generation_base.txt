@@ -1,47 +1,191 @@
-CRITICAL — CHARACTER LOCK (MUST FOLLOW EXACTLY):
-Use ONLY the uploaded official LUXHT Fix characters exactly as provided.
-Do NOT create new characters.
-Do NOT modify faces, hair, clothing, body proportions, or illustration style.
-Characters must appear IDENTICAL to the official figures.
-Male character must have brown eyes.
+LUXHT Fix must always look:
+Professional
+Trustworthy
+Modern
+Clean
+Human-first (real people > illustrations)
+The brand uses two parallel visual layers:
+Real Humans (Primary Trust Layer)
+Illustrated Humans (Secondary Educational Layer)
+Both layers represent the same people, never different characters.
 
-FORMAT:
-Create an Instagram FEED post in STRICT portrait format 1080×1350 (4:5).
-Do NOT create a Story.
-Do NOT create square or horizontal images.
+2. OFFICIAL HUMAN BRAND REPRESENTATIVES (REAL)
+2.1 Identity
+One male technician
+One female technician
+These faces are the only approved real human faces for LUXHT Fix
+Faces are locked and must stay consistent
+2.2 Appearance Rules (Real Humans)
+Purple LUXHT Fix polo (official branding)
+Jeans (dark or medium wash)
+Work boots
+Optional tool belt (mainly for the male)
+Clean, confident posture
+2.3 Approved Poses
+Standing, facing camera
+Arms crossed (female – common)
+Hands on belt or relaxed stance (male – common)
+Friendly, confident expressions
+2.4 Approved Backgrounds (Real Humans)
+White / studio background
+In front of branded LUXHT Fix truck
+Inside clean residential interiors
+On-site repair situations
+2.5 Strict Rules (Real Humans)
+DO NOT:
+Change faces
+Beautify or stylize faces
+Change body proportions
+Add new people
+Replace humans with stock models
 
-SCENE (ENVIRONMENT — ALWAYS APPLY):
-Interior of a private home (not an apartment).
-Realistic, modern, neutral residential environment.
-The setting must logically match the issue or context.
+3. STUDIO / WHITE BACKGROUND VERSION
+Purpose
+This is the base asset for:
+Website sections
+Canva layouts
+Ads
+Composite scenes
+Rules
+Same outfit as real humans
+Same proportions
+Same poses
+Pure white background
+High clarity, sharp edges
+This version is the master base image.
 
-TASK:
-You will receive a CONTEXT BLOCK appended at the end of this prompt.
-Use ONLY the information in that block to determine:
-– what the scene shows
-– what the issue or message is
-– whether characters are present
-– whether text appears on the image
-– overall mood, style, and composition
+4. ILLUSTRATED / CARTOON HUMAN SYSTEM
+Purpose
+Used for:
+Instagram carousels
+Highlights
+Educational posts
+Explainer content
+Service breakdowns
+Safety warnings
+Rules
+Illustrations must represent the same two humans
+Same hairstyles
+Same clothing
+Same color palette
+No new characters
+Style
+Clean, modern illustration
+Semi-realistic (not childish)
+Consistent proportions
+Purple + green brand accents
 
-RULES:
-– Do NOT assume specific actions, issues, tools, or scenarios
-– Do NOT invent elements not supported by the context
-– Do NOT exaggerate or dramatize
-– Prioritize realism and clarity
-– Omit characters entirely if the context does not justify them
-– Omit on-image text unless the context implies it
-– Do NOT include logos unless explicitly instructed in the context
+5. APPROVED SCENES & USE CASES
+Real Humans
+Truck exterior shots
+Standing portraits
+Home service action shots
+Trust & credibility visuals
+Illustrated Humans
+“Why LUXHT Fix” slides
+Services overview
+Before / After explanations
+CTA slides
+Safety warnings
 
-QUALITY & STYLE:
-– Photorealistic
-– Clean
-– Premium
-– Believable
-– Non-staged
+6. BRAND COLORS (LOCKED)
+Primary Purple: LUXHT Fix official purple
+Accent Green: LUXHT Fix official green
+White backgrounds preferred
+No other dominant colors allowed.
 
-FINAL CHECK:
-The image must feel like a real moment inside a real home and must visually reinforce the marketing intent described in the context block below.
+7. TEXT + VISUAL HIERARCHY
+Humans are always the focal point
+Text supports the image, never overpowers it
+Clean spacing
+No clutter
 
-––––– CONTEXT BLOCK (AUTHORITATIVE INPUT) –––––
+8. MASTER RULE (MOST IMPORTANT)
+If content is created for LUXHT Fix:
+It MUST use the locked humans
+It MUST follow this document
+It MUST feel consistent with existing posts
+If something feels “off” → it is rejected.
+
+9. HOW TO USE THIS DOCUMENT
+This document should be:
+Saved in Google Drive
+Shared with designers, marketers, AI tools
+Referenced before creating any new asset
+Recommended Drive Path:
+LUXHT Fix / Brand / Visual System
+
+
+10. MASTER AI PROMPT (COPY–PASTE FOREVER)
+Use this prompt in Nano Banana, Midjourney-style tools, image editors, or any AI visual generator.
+
+🔒 MASTER PROMPT — LUXHT FIX VISUAL SYSTEM
+"You are generating content for LUXHT Fix, a professional home services brand.
+Use ONLY the official locked LUXHT Fix visual system.
+HUMAN IDENTITY (LOCKED)
+Use the same two human brand representatives at all times:
+One middle‑aged male technician
+One younger female technician
+These humans must look identical across all outputs (faces, age, proportions).
+REAL HUMAN VERSION
+Ultra‑realistic photography style
+Purple LUXHT Fix polo
+Jeans + work boots
+Optional tool belt (male)
+Confident, friendly, professional
+Approved backgrounds only:
+White studio background
+In front of LUXHT Fix branded truck
+Clean residential interior
+On‑site repair situation
+ILLUSTRATED VERSION
+Clean, modern illustration
+Same faces, hairstyles, outfits
+Same body proportions
+Same purple + green brand colors
+No new characters, no cartoons outside this style
+ABSOLUTE RESTRICTIONS
+Do NOT change faces
+Do NOT add new people
+Do NOT stylize or beautify faces
+Do NOT change body shapes
+Do NOT change uniforms
+Do NOT invent new characters
+This is a continuation of an existing brand system, not a new design.
+"
+
+11. “DO NOT BREAK THESE RULES” — BRAND SAFETY PAGE
+This page exists to protect brand trust.
+If any rule below is broken, the asset is rejected.
+
+🚫 NEVER DO THESE
+Never introduce new human faces
+Never mix different illustration styles
+Never change brand colors
+Never use stock people
+Never exaggerate bodies or faces
+Never change hairstyles without approval
+Never redesign uniforms
+Never create “funny” or childish versions
+
+✅ ALWAYS DO THESE
+Always reuse the same humans
+Always maintain visual consistency
+Always prioritize trust over creativity
+Always keep visuals clean and professional
+Always follow the visual hierarchy (human first)
+
+🔑 GOLDEN RULE
+Consistency builds trust.
+If something looks different enough that a homeowner might wonder:
+“Is this the same company?”
+Then it is wrong.
+
+12. FINAL STATEMENT
+This visual system is locked.
+Do not reinvent.
+Do not experiment outside the system.
+Build consistency.
+Build trust.
+Build leads.
 
