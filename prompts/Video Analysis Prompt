@@ -7,7 +7,6 @@ Instructions:
 Analyze the provided video thoroughly and extract detailed information to populate the following structured schema. Your analysis should be precise enough to recreate this video using Sora 2 text-to-video generation.
 Return your analysis in valid JSON format with the following fields:
 {
-  "Video_Name": "string",
   "Frame_Rate_FPS": "number",
   "Duration_Seconds": "number",
   "Aspect_Ratio": "string (select one:  16:9, 9:16, 1:1, 21:9, 4:3, or custom)",
