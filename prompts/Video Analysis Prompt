@@ -58,4 +58,13 @@ Rate your confidence level honestly (High: >90% certain, Medium: 70-90%, Low: <7
 Use AI_Freeform_Visual_Notes for technical details that don't fit elsewhere
 Use AI_Freeform_Narrative_Notes for storytelling, pacing, and contextual observations
 Output Format:
-Return ONLY valid JSON matching the schema above. Ensure all string values are properly escaped and all enum fields match exactly one of the specified options.
+CRITICAL OUTPUT RULES (MUST FOLLOW EXACTLY):
+
+- Output MUST be a single raw JSON object.
+- DO NOT wrap the response in ```json, ``` or any markdown.
+- DO NOT include explanations, comments, or extra text.
+- DO NOT include leading or trailing whitespace.
+- The response MUST start with { and end with }.
+- If you violate any rule above, the output is invalid.
+
+Now return the JSON object.
