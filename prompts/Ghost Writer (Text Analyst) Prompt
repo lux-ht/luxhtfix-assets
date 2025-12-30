@@ -8,12 +8,16 @@ JSON
 
 {
   "video_summary": "string (A descriptive expansion of the user's idea into a clear narrative or storyboard concept)",
-  "topic_category": "string (The specific niche or industry identified from the text idea)",
   "content_pillar": "Educational | Comedy/Entertainment | Behind-the-Scenes | Storytelling | Inspiration | Product Showcase | Other",
+  "primary_hook": "string (Describe a potential high-impact hook that could be used for this idea)",
   "narrative_structure": "Problem-Solution | Listicle/Top X | Myth-Busting | Day in the Life | Tutorial | Before-After | Reaction | Other",
   "visual_style": "Minimalist | High-Energy | Aesthetic/Cinematic | Raw/Authentic | Meme-style | Professional",
-  "raw_video_timestamps": "string (Output: 'N/A - Ghost Creator Track')",
-  "marketing_hook_potential": "string (Describe a potential high-impact hook that could be used for this idea)"
+  "ai_creative_notes": "string (The core 'vibe' or creative direction. Merge your thoughts on topic category and style here)",
+  "key_takeaways": "string (The main value or message the viewer should walk away with)",
+  "call_to_action": "string (A suggested CTA based on the goal)",
+  "audio_profile": "string (Suggested audio vibe, e.g. 'Trending Upbeat' or 'ASMR')",
+  "on_screen_text_style": "string (Suggested text style, e.g. 'Bold Captions' or 'Minimalist')",
+  "pacing_speed": "string (e.g. 'Fast', 'Medium', 'Slow')"
 }
 Rules:
 
