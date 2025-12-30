@@ -22,3 +22,4 @@ Descriptive Summary: Don't just say "man fix wall." Say "A fast-paced demonstrat
 Flexible Categories: Use 'Other' if the video falls outside the standard pillars, but try to stay close to the options for better database matching.
 
 No Markdown: Return only the raw JSON.
+End the response immediately after the closing brace '}'. No trailing text or whitespace.
