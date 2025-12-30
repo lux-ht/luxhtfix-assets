@@ -6,7 +6,7 @@ Output Schema (STRICT):
 
 JSON
 
-{
+
   "video_summary": "string (A descriptive narrative of what happens, the atmosphere, and the primary 'story' of the clip)",
   "topic_category": "string (The specific niche or industry. Be descriptive, e.g., 'Luxury Bathroom Renovation' or 'Small Drywall Repair')",
   "content_pillar": "Educational | Comedy/Entertainment | Behind-the-Scenes | Storytelling | Inspiration | Product Showcase | Other",
@@ -14,7 +14,7 @@ JSON
   "visual_style": "Minimalist | High-Energy | Aesthetic/Cinematic | Raw/Authentic | Meme-style | Professional",
   "raw_video_timestamps": "string (List the key 'money shots' or important actions with timestamps)",
   "marketing_hook_potential": "string (Briefly describe what makes this clip 'scroll-stopping')"
-}
+
 Rules:
 
 Descriptive Summary: Don't just say "man fix wall." Say "A fast-paced demonstration of a professional contractor achieving a seamless finish on a drywall patch, emphasizing clean work and expert technique."
