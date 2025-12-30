@@ -7,13 +7,17 @@ Output Schema (STRICT):
 Return a single JSON object on one line, no spaces or newlines, no trailing text.
 
 {
-  "video_summary": "string (A descriptive narrative of what happens, the atmosphere, and the primary 'story' of the clip)",
-  "topic_category": "string (The specific niche or industry. Be descriptive, e.g., 'Luxury Bathroom Renovation' or 'Small Drywall Repair')",
+  "video_summary": "string (A descriptive expansion of the user's idea into a clear narrative or storyboard concept)",
   "content_pillar": "Educational | Comedy/Entertainment | Behind-the-Scenes | Storytelling | Inspiration | Product Showcase | Other",
+  "primary_hook": "string (Describe a potential high-impact hook that could be used for this idea)",
   "narrative_structure": "Problem-Solution | Listicle/Top X | Myth-Busting | Day in the Life | Tutorial | Before-After | Reaction | Other",
   "visual_style": "Minimalist | High-Energy | Aesthetic/Cinematic | Raw/Authentic | Meme-style | Professional",
-  "raw_video_timestamps": "string (List the key 'money shots' or important actions with timestamps)",
-  "marketing_hook_potential": "string (Briefly describe what makes this clip 'scroll-stopping')"
+  "ai_creative_notes": "string (The core 'vibe' or creative direction. Merge your thoughts on topic category and style here)",
+  "key_takeaways": "string (The main value or message the viewer should walk away with)",
+  "call_to_action": "string (A suggested CTA based on the goal)",
+  "audio_profile": "string (Suggested audio vibe, e.g. 'Trending Upbeat' or 'ASMR')",
+  "on_screen_text_style": "string (Suggested text style, e.g. 'Bold Captions' or 'Minimalist')",
+  "pacing_speed": "string (e.g. 'Fast', 'Medium', 'Slow')"
 }
 Rules:
 
