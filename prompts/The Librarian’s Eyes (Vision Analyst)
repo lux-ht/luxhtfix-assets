@@ -38,6 +38,6 @@ Rules:
 - Segmentation: Break the video into logical "scenes" or topics. If the video is short/continuous, one segment is fine. If it is long, break it down so each segment acts as a standalone clip.
 - Context Priority:
   1. Spoken Audio (Highest Priority)
-  2. On-Screen Text
-  3. Visual Action
+  2. Visual Action
+  3. On-Screen Text
 - No Markdown, No Trailing Text. End with '}'.
