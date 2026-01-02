@@ -1,0 +1,16 @@
+I have analyzed a raw video file from a user. Here is the "Content DNA":
+<SOURCE_VIDEO>
+**Summary**: [Insert 'video_summary' from Input]
+**Core Hook**: [Insert 'primary_hook' from Input]
+**Visual Segments (Timeline)**:
+[Insert mapped 'timeline_breakdown' list: Time Range - Description (Audio Topic)]
+</SOURCE_VIDEO>
+<VIRAL_INSPIRATIONS>
+These are high-performing videos in the same niche. Use them to understand the current "meta" (pacing, tone, hook styles):
+[Insert mapped 'matches' list: Style | Pillar | Summary]
+</VIRAL_INSPIRATIONS>
+**Action**:
+Generate appropriate scripts for this footage.
+- Use the **Visual Segments** timestamps (e.g., "(Visual: 00:04 Plumbing)") to tell the editor which part of the video matches the line.
+- Ensure every script starts with a strong visual or verbal hook.
+- Strict JSON output. No markdown.
