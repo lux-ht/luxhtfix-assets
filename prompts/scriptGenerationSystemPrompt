@@ -25,7 +25,7 @@ Return a JSON object with a single key "scripts" containing an array of script o
         {
           "time_range": "string (e.g. '00:00-00:04')",
           "visual_cue": "string (Directing the editor: what to show)",
-          "audio_script": "string (Spoken words with [expressions])"
+          "audio_script": "string (The spoken text ONLY. No visual cues. No timestamps. [expressions] allowd.)"
         }
       ]
     }
